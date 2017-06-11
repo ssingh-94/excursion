@@ -1,0 +1,25 @@
+body {background-color: black;
+  text-align: center;
+  font-family: Verdana;
+
+}
+p {color: gray;
+  font-size: 21px;
+
+}
+
+h1 {font-size: 50px;
+  font-weight: normal;
+  color: white;
+
+}
+.title {font-size: 42px;
+  color: white;
+  font-weight: 300;
+
+}
+
+.download {color: Aquamarine;
+  font-size: 16px;
+
+}
